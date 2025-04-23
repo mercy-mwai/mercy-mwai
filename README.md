@@ -18,6 +18,8 @@
 ![NextJS](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![MYSQL](https://img.shields.io/badge/-Mysql-black?style=flat-square&logo=python)
+
 
 ---
 

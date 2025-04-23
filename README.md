@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋, I'm Njoki Mwai
 
-<!--
-**mercy-mwai/mercy-mwai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate Software Developer | Lifelong Learner | Frontend Wizard
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me:
+- 👩🏽‍💻 I specialize in building sleek user interfaces using **React**, **Next.js**, and **TailwindCSS**.
+- 🌱 Currently learning: **Backend with Node.js & MongoDB**
+- 🔭 Exploring Open Source & Tech Communities
+- 🧠 Love solving problems & learning every day!
+
+---
+
+### 🛠️ Tech Stack:
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![NextJS](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+
+---
+
+### 📬 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/your-link)](https://linkedin.com/in/your-link)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/NjokiiMwai)
+
+---
+
+### 🔥 GitHub Stats
+![Njoki's GitHub stats](https://github-readme-stats.vercel.app/api?username=NjokiiMwai&show_icons=true&theme=radical)
+

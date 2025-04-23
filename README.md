@@ -28,5 +28,5 @@
 ---
 
 ### 🔥 GitHub Stats
-![Njoki's GitHub stats](https://github-readme-stats.vercel.app/api?username=NjokiiMwai&show_icons=true&theme=radical)
+![Njoki's GitHub stats](https://github-readme-stats.vercel.app/api?username=mercy-mwai&show_icons=true&theme=radical)
 

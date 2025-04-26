@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Njoki Mwai
 
-🚀 Passionate Software Developer | Lifelong Learner | Frontend Wizard
+🚀 Passionate Software Developer | Lifelong Learner | Frontend Wizard | Backend Wizard
 
 ---
 

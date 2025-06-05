@@ -5,8 +5,8 @@
 ---
 
 ### 💡 About Me:
-- 👩🏽‍💻 I specialize in building sleek user interfaces using **React**, **Next.js**, and **TailwindCSS**.
-- 🌱 Currently learning: **Backend with Node.js & MongoDB**
+- 👩🏽‍💻 I specialize in building sleek user interfaces using **React**, **Next.js**, and **TailwindCSS**.(MERN STACK)
+- 🌱 Currently learning: **Backend with PHP
 - 🔭 Exploring Open Source & Tech Communities
 - 🧠 Love solving problems & learning every day!
 

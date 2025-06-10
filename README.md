@@ -28,9 +28,8 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/NjokiiMwai)
 
 ---
+### Github stats🔥
+![Njoki's GitHub stats](https://github-readme-stats.vercel.app/api?username=mercy-mwai&show_icons=true&theme=radical&cache_seconds=60)
 
-### 🔥 Github Stats
-### 🔥 GitHub Stats
-![Njoki's GitHub stats](https://github-readme-stats.vercel.app/api?username=mercy-mwai&show_icons=true&theme=radical)
 
 

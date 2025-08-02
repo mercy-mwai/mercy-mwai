@@ -1,35 +1,57 @@
-# Hi there 👋, I'm Njoki Mwai
+# Hi there 👋
 
-🚀 Passionate Software Developer | Lifelong Learner | Frontend Wizard | Backend Wizard
 
----
 
-### 💡 About Me:
-- 👩🏽‍💻 I specialize in building sleek user interfaces using **React**, **Next.js**, and **TailwindCSS**.(MERN STACK)
-- 🌱 Currently learning: **Backend with PHP
-- 🔭 Exploring Open Source & Tech Communities
-- 🧠 Love solving problems & learning every day!
+## 💡 About Me
 
----
+👩🏽‍💻 I'm a developer who loves turning ideas into sleek, interactive applications. I specialize in building clean, responsive UIs with **React**, **Next.js**, and **Tailwind CSS**, and I'm currently growing my skills on the backend with **PHP**, **MySQL**, and **Laravel**.
 
-### 🛠️ Tech Stack:
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![NextJS](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![MYSQL](https://img.shields.io/badge/-Mysql-black?style=flat-square&logo=python)
+🌱 **Currently learning**: 
+- Backend Development with PHP & Laravel  
+- Database Design with MySQL & PostgreSQL  
+- Exploring DevOps & Docker for deployment
 
+🔍 **What I'm Exploring**:  
+- Open Source Projects  
+- Tech Communities & Collaboration  
+
+💭 I enjoy solving real-world problems, learning new tools, and challenging myself through hands-on projects and internships.
 
 ---
 
-### 📬 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/https://www.linkedin.com/in/mercy-mwai-aa7214279/)](https://linkedin.com/in/your-link)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/NjokiiMwai)
+## 🛠️ Tech Stack
+
+**Frontend:**  
+- JavaScript  
+- React.js | Next.js  
+- Tailwind CSS
+
+**Backend:**  
+- PHP | Laravel (learning)  
+- Node.js (basic understanding)  
+- MySQL | PostgreSQL
+
+**Tools & Other:**  
+- Git & GitHub  
+- Prisma | REST APIs  
+- Docker (learning)
 
 ---
-### Github stats🔥
-![Njoki's GitHub stats](https://github-readme-stats.vercel.app/api?username=mercy-mwai&show_icons=true&theme=radical&cache_seconds=60)
 
+## 📬 Connect With Me
 
+- [LinkedIn](https://www.linkedin.com/in/mercy-mwai-aa7214279/)
+- [Twitter / X](https://x.com/NjokiiMwai)
+
+---
+
+## 📊 GitHub Stats
+
+![Njoki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mercy-mwai&show_icons=true&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mercy-mwai&layout=compact&theme=radical)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
+> Let’s keep learning and building together! 🚀
 

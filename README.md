@@ -28,7 +28,6 @@
 ## 📊 GitHub Stats
 
 ![Njoki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mercy-mwai&show_icons=true&count_private=true&theme=radical)
-![Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=mercy-mwai&layout=compact&theme=radical)
 
 ---
 

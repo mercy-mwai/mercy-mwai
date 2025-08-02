@@ -17,26 +17,6 @@
 
 💭 I enjoy solving real-world problems, learning new tools, and challenging myself through hands-on projects and internships.
 
----
-
-## 🛠️ Tech Stack
-
-**Frontend:**  
-- JavaScript  
-- React.js | Next.js  
-- Tailwind CSS
-
-**Backend:**  
-- PHP | Laravel (learning)  
-- Node.js (basic understanding)  
-- MySQL | PostgreSQL
-
-**Tools & Other:**  
-- Git & GitHub  
-- Prisma | REST APIs  
-- Docker (learning)
-
----
 
 ## 📬 Connect With Me
 
@@ -48,7 +28,7 @@
 ## 📊 GitHub Stats
 
 ![Njoki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mercy-mwai&show_icons=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mercy-mwai&layout=compact&theme=radical)
+![Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=mercy-mwai&layout=compact&theme=radical)
 
 ---
 

@@ -1,6 +1,5 @@
 # Hi there 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=mercy-mwai)
 
 
 ## 💡 About Me

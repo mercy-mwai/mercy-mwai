@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Your Name] — *Laravel Iron Coder* 🛠️
+# Hi there 👋 I'm Njoki  — *Laravel Iron Coder* 🛠️
 
 ![Iron Man Arc Reactor](https://github.com/user-attachments/assets/arc-reactor-gif-placeholder) <!-- Replace with a real animated arc reactor GIF -->
 
@@ -55,8 +55,8 @@ I also bring strong frontend skills (React, Next.js & Tailwind CSS) to create se
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourhandle)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NjokiiMwai)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mercy-mwai)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
 </div>

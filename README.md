@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Njoki  — *Laravel Iron Coder* 🛠️
 
-![Iron Man Arc Reactor](https://tenor.com/view/iron-man-tony-stark-cope-cope-engine-cope-inhibitors-gif-23875872) <!-- Replace with a real animated arc reactor GIF -->
+![Iron Man Arc Reactor](https://media.tenor.com/1DAfFTlEh_QAAAAM/nityanando.gif)
 
 <div align="center">
   <h2>💡 Backend Engineer | Building Robust Systems Like Stark Industries</h2>

@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Njoki  — *Laravel Iron Coder* 🛠️
 
-![Iron Man Arc Reactor](https://media.tenor.com/1DAfFTlEh_QAAAAM/nityanando.gif)
+https://media.tenor.com/EsmMOibMNlkAAAA1/tony-stark-iron-man.webp
 
 <div align="center">
   <h2>💡 Backend Engineer | Building Robust Systems Like Stark Industries</h2>
@@ -69,10 +69,10 @@ I also bring strong frontend skills (React, Next.js & Tailwind CSS) to create se
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="Streak" />
-</div>
+</div> -->
 
 ---
 

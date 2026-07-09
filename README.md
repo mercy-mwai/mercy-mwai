@@ -1,6 +1,6 @@
-# Hi there 👋 I'm Njoki  — *Laravel Iron Coder* 🛠️
+# Hi there 👋 I'm Njoki Mwai — *Laravel Iron Coder* 🛠️
 
-https://media.tenor.com/EsmMOibMNlkAAAA1/tony-stark-iron-man.webp
+![Tony Stark Iron Man](https://media.tenor.com/EsmMOibMNlkAAAA1/tony-stark-iron-man.webp)
 
 <div align="center">
   <h2>💡 Backend Engineer | Building Robust Systems Like Stark Industries</h2>

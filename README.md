@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Njoki  — *Laravel Iron Coder* 🛠️
 
-![Iron Man Arc Reactor](https://github.com/user-attachments/assets/arc-reactor-gif-placeholder) <!-- Replace with a real animated arc reactor GIF -->
+![Iron Man Arc Reactor](https://tenor.com/view/iron-man-tony-stark-cope-cope-engine-cope-inhibitors-gif-23875872) <!-- Replace with a real animated arc reactor GIF -->
 
 <div align="center">
   <h2>💡 Backend Engineer | Building Robust Systems Like Stark Industries</h2>
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   
   <br><br>
-  <strong>Genius. Backend Engineer. Developer.</strong> (Minus the suit... for now 🔥)
+  <strong>Genius. Backend Engineer. Developer.</strong> (Minus the playboy part... for now 😏)
 </div>
 
 ---
@@ -54,10 +54,10 @@ I also bring strong frontend skills (React, Next.js & Tailwind CSS) to create se
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/njoki-m-mwai-aa7214279/)
 [![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NjokiiMwai)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mercy-mwai)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=vercel&logoColor=white)](https://njokis-portfolio.vercel.app/)
 
 </div>
 
@@ -65,6 +65,7 @@ I also bring strong frontend skills (React, Next.js & Tailwind CSS) to create se
 > — Tony Stark  
 > 
 > *And I'm engineering backend systems that last.*
+> *And I'm coding my legacy.*
 
 ---
 
@@ -77,4 +78,4 @@ I also bring strong frontend skills (React, Next.js & Tailwind CSS) to create se
 
 **Made with ❤️, Laravel, and pure arc reactor energy.**
 
-*Last upgraded: July 2026*
+
